@@ -1,0 +1,13 @@
+package demo;
+
+public class Class3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("I received infosys offer letter with 30L package");
+		
+		System.out.println("My joining date is 1st September");
+	}
+
+}
