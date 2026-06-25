@@ -7,6 +7,7 @@ public class Class1 {
 		
 		System.out.println("hello");
 		System.out.println("Good morning");
+		System.out.println("Learning Git");
 		
 
 	}
